@@ -1,5 +1,4 @@
 # Challenge-Alura-Store
-# Challenge-Alura-Store
 # 🛍️ Análisis de Ventas - Alura Store LATAM
 
 ## 🚀 Abrir el proyecto
